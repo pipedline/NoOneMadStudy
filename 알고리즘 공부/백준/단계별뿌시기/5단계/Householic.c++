@@ -1,0 +1,7 @@
+// ## [10818번 최소, 최대](https://www.acmicpc.net/problem/10818)
+// ## [2562번 최댓값](https://www.acmicpc.net/problem/10818)
+// ## [2577번 숫자의 개수](https://www.acmicpc.net/problem/2577)
+// ## [3052번 나머지](https://www.acmicpc.net/problem/3052)
+// ## [1546번 평균](https://www.acmicpc.net/problem/1546)
+// ## [8958번 OX퀴즈](https://www.acmicpc.net/problem/8958)
+// ## [4344번 평균은 넘겠지](https://www.acmicpc.net/problem/4344)
