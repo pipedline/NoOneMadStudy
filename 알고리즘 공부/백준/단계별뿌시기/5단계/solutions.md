@@ -13,26 +13,23 @@
   > ```
 
 - 😝Java
-  > ```java
-  > import java.util.Scanner;
-  > class Main{
+  > ```Java
+  >  import java.util.Scanner;
+  >  class Main{
+  >  public static void main(String args[]){
+  >  int max = -1000000;
+  >  int min = 1000000;
+  >  Scanner sc = new Scanner(System.in);
+  >  int n = sc.nextInt();
+  >  int arr[] = new int[n];
+  >  for(int i=0;i<n;i++){
+  >  arr[i] = sc.nextInt();
+  >  int t = arr[i];
+  >  if(t > max) max = t;
+  >  if(t < min) min = t;
+  >  }
+  >  sc.close();
+  >  System.out.println(min + " " + max);
+  >  }
+  >  }
   > ```
-      public static void main(String args[]){
-          int max = -1000000;
-          int min = 1000000;
-          Scanner sc = new Scanner(System.in);
-          int n = sc.nextInt();
-          int arr[] = new int[n];
-          for(int i=0;i<n;i++){
-              arr[i] = sc.nextInt();
-              int t = arr[i];
-              if(t > max) max = t;
-              if(t < min) min = t;
-          }
-          sc.close();
-          System.out.println(min + " " + max);
-      }
-  }
-  ```
-
-  ```
