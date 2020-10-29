@@ -1,5 +1,4 @@
 // ## [10818번 최소, 최대](https://www.acmicpc.net/problem/10818)
-// asdfasdf
 #include <iostream>
 #include <algorithm>
 using namespace std;
